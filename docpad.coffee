@@ -38,12 +38,12 @@ docpadConfig = {
 
 			# The website description (for SEO)
 			description: """
-				Semantic empowers designers and developers by creating a shared vocabulary for UI.
+				Old Semantic UI documentation for version 2.2.10
 				"""
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-				html5, ui, library, framework, javascript
+				html5, ui, library, framework, javascript, old
 				"""
 
 
