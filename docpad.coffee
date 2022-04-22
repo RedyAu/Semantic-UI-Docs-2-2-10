@@ -24,7 +24,7 @@ docpadConfig = {
 		site:
 
 			# The production url of our website
-			url: "http://www.semantic-ui.com"
+			url: "https://fodor.pro/Semantic-UI-Docs-2-2-10/"
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: [],
@@ -34,7 +34,7 @@ docpadConfig = {
 			branch: "master",
 
 			# The default title of our website
-			title: "Semantic UI"
+			title: "Semantic UI 2.2.10"
 
 			# The website description (for SEO)
 			description: """
