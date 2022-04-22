@@ -11,7 +11,7 @@ docpadConfig = {
 	plugins:
     ghpages:
       deployRemote: 'origin'
-      deployBranch: 'gh-pages'
+      deployBranch: 'master'
 
 	# =================================
 	# Template Data
@@ -24,7 +24,7 @@ docpadConfig = {
 		site:
 
 			# The production url of our website
-			url: "https://fodor.pro/Semantic-UI-Docs-2-2-10/"
+			url: "https://semantic.fodor.pro"
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: [],
